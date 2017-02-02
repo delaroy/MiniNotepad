@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Sun Jan 29 14:57:39 CET 2017
+2.base=C\:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main_no_entries.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\options_menu.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+7.file=C\:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+7.set=ANDROID_RESOURCE
+count=10
+0.file=C\:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+5.base=C\:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\simple_list_item_1.xml
+4.set=DEX
+6.base=C\:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\add_new_entry_dialog.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\edit_entry_activity.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

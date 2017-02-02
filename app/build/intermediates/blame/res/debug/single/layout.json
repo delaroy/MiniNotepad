@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_new_entry_dialog.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\src\\main\\res\\layout\\add_new_entry_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_list_item_1.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\src\\main\\res\\layout\\simple_list_item_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_entry_activity.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\src\\main\\res\\layout\\edit_entry_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_no_entries.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\quickcopy1\\app\\src\\main\\res\\layout\\main_no_entries.xml"
+    }
+]
